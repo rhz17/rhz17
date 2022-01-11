@@ -1,11 +1,11 @@
-
-<h1 align="center">Hey there 👋, I'm Victor</h1>
+<h3 align="center">Hey there 👋, I'm Victor</h3>
 <div align="center">Hi guys! Welcome to my profile. I'm a software developer from Brazil.</div>
+
+-----------------------------------------------------------------------------------
 
 <h4 align="left">💬 Meet me:</h3>
 <p align="left">
 <a href="https://twitter.com/laarky17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="laarky17" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lkyvictor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lkyvictor" height="30" width="40" /></a>
 <a href="https://laarky.gq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/html.svg" alt="site" height="30" width="40" /></a>
 </p>
 
